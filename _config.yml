@@ -41,7 +41,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+# google_analytics: T
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
@@ -50,7 +50,9 @@ google_analytics:
 # Used for Sitemap.xml and your RSS feed
 
 baseurl: "/real_incomes" # the subpath of your site, e.g. /blog
-url: "https://ramazanbora.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://ramazanbora.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: ""
 
 #baseurl: "/reverie" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
